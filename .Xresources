@@ -9,6 +9,9 @@ Xft.rgba: rgb
 ! Cursor theme
 xcursor.theme:            Vanilla-DMZ
  
+URxvt.transparent: true
+URxvt.shading: 15
+
 ! URxvt config
 URxvt*termName:           rxvt-256color
  
